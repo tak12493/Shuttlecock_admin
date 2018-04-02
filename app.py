@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 
 def start(bot, update):
-    update.message.reply_text('welcome MESSAGE')
+    update.message.reply_text('welcome MESSAGE?????')
 
 
 def help(bot, update):
